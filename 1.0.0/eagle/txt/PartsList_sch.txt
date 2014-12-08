@@ -1,0 +1,115 @@
+Partlist
+
+Exported from armstrap_eagle_1.0.0.sch at 12/7/14 10:09 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part        Value               Device        Package                   Library  Sheet
+
+C1          0.1uF               CAP0805       0805                      vovtech  1
+C2          0.1uF               CAP0805       0805                      vovtech  1
+C3          0.1uF               CAP0805       0805                      vovtech  1
+C4          0.1uF               CAP0805       0805                      vovtech  1
+C5          10uF                CAP0805       0805                      vovtech  1
+C6          10pF                CAP0805       0805                      vovtech  1
+C7          10pF                CAP0805       0805                      vovtech  1
+C8          2.2uF               CAP0805       0805                      vovtech  1
+C9          2.2uF               CAP0805       0805                      vovtech  1
+C10         8pF                 CAP0805       0805                      vovtech  1
+C11         10uF                CAP0805       0805                      vovtech  1
+C12         0.1uF               CAP0805       0805                      vovtech  1
+C13         0.1uF               CAP0805       0805                      vovtech  1
+C14         0.1uF               CAP0805       0805                      vovtech  1
+C15         0.1uF               CAP0805       0805                      vovtech  1
+C16         0.1uF               CAP0805       0805                      vovtech  1
+C17         10pF                CAP0805       0805                      vovtech  1
+C18         10pF                CAP0805       0805                      vovtech  1
+C19         0.1uF               CAP0805       0805                      vovtech  1
+C20         8pF                 CAP0805       0805                      vovtech  1
+C21         0.1uF               CAP0805       0805                      vovtech  1
+C22         1uF                 CAP0805       0805                      vovtech  1
+C23         0.1uF               CAP0805       0805                      vovtech  1
+C24         1uF                 CAP0805       0805                      vovtech  1
+COINBATTERY BK-885-TR           BATTERY12MM   BATTCON_12MM              vovtech  1
+D1          BAT60JFILM          SCHOTTKY      SOD-323                   vovtech  1
+D2          BAT60JFILM          SCHOTTKY      SOD-323                   vovtech  1
+F1          1206L050YR          FUSE_PTC      PTC-1206                  vovtech  1
+FLASH1      S25FL208K0RMFI010   FLASH-SPI     SOIC-8-WIDE               vovtech  1
+FTDI_1                          PINHD-1X1     1X01                      pinhead  1
+FTDI_2                          PINHD-1X1     1X01                      pinhead  1
+FTDI_3                          PINHD-1X1     1X01                      pinhead  1
+FTDI_4                          PINHD-1X1     1X01                      pinhead  1
+FTDI_5                          PINHD-1X1     1X01                      pinhead  1
+FTDI_6                          PINHD-1X1     1X01                      pinhead  1
+GND-                            PINHD-1X1     1X01                      pinhead  1
+JP21                            PINHD-1X1     1X01                      pinhead  1
+JP22                            PINHD-1X1     1X01                      pinhead  1
+JP23                            PINHD-1X1     1X01                      pinhead  1
+JP24                            PINHD-1X1     1X01                      pinhead  1
+JP25                            PINHD-1X1     1X01                      pinhead  1
+JP26                            PINHD-1X1     1X01                      pinhead  1
+JP27                            PINHD-1X1     1X01                      pinhead  1
+JP28                            PINHD-1X1     1X01                      pinhead  1
+JP29                            PINHD-1X1     1X01                      pinhead  1
+JP30                            PINHD-1X1     1X01                      pinhead  1
+JP31                            PINHD-1X1     1X01                      pinhead  1
+JP32                            PINHD-1X1     1X01                      pinhead  1
+JP33                            PINHD-1X1     1X01                      pinhead  1
+JP34                            PINHD-1X1     1X01                      pinhead  1
+JP35                            PINHD-1X1     1X01                      pinhead  1
+JP36                            PINHD-1X1     1X01                      pinhead  1
+JP37                            PINHD-1X1     1X01                      pinhead  1
+JP38                            PINHD-1X1     1X01                      pinhead  1
+JP39                            PINHD-1X1     1X01                      pinhead  1
+JP40                            PINHD-1X1     1X01                      pinhead  1
+LED2        APB3025YSGC-F01     LED-2         CHIPLED_1206-DUAL         vovtech  1
+LED3        APT3216QBC/D        LED1206       CHIPLED_1206              vovtech  1
+NC                              PINHD-1X1     1X01                      pinhead  1
+NRST                            PINHD-1X1     1X01                      pinhead  1
+P1                              PINHD-1X1     1X01                      pinhead  1
+P2                              PINHD-1X1     1X01                      pinhead  1
+P3                              PINHD-1X1     1X01                      pinhead  1
+P4                              PINHD-1X1     1X01                      pinhead  1
+P5                              PINHD-1X1     1X01                      pinhead  1
+P6                              PINHD-1X1     1X01                      pinhead  1
+P7                              PINHD-1X1     1X01                      pinhead  1
+P8                              PINHD-1X1     1X01                      pinhead  1
+P9                              PINHD-1X1     1X01                      pinhead  1
+P10                             PINHD-1X1     1X01                      pinhead  1
+P11                             PINHD-1X1     1X01                      pinhead  1
+P12                             PINHD-1X1     1X01                      pinhead  1
+P13                             PINHD-1X1     1X01                      pinhead  1
+P14                             PINHD-1X1     1X01                      pinhead  1
+P15                             PINHD-1X1     1X01                      pinhead  1
+P16                             PINHD-1X1     1X01                      pinhead  1
+P17                             PINHD-1X1     1X01                      pinhead  1
+P18                             PINHD-1X1     1X01                      pinhead  1
+P19                             PINHD-1X1     1X01                      pinhead  1
+P20                             PINHD-1X1     1X01                      pinhead  1
+R1          10K                 RES0805       0805                      vovtech  1
+R2          10K                 RES0805       0805                      vovtech  1
+R3          10K                 RES0805       0805                      vovtech  1
+R4          10K                 RES0805       0805                      vovtech  1
+R5          390                 RES0805       0805                      vovtech  1
+R9          1.5K                RES0805       0805                      vovtech  1
+R10         4.7K                RES0805       0805                      vovtech  1
+R11         10K                 RES0805       0805                      vovtech  1
+R14         10K                 RES0805       0805                      vovtech  1
+RN1         EXB-34V220JV        RES-2         0603-ARC2                 vovtech  1
+RN2         EXB-38V391JV        RES-4         0603-ARC4                 vovtech  1
+S1          KMR211GLFS          TAC_SWITCH    KMR_SWITCH                vovtech  1
+S2          KMR211GLFS          TAC_SWITCH    KMR_SWITCH                vovtech  1
+S3          KMR211GLFS          TAC_SWITCH    KMR_SWITCH                vovtech  1
+S4          KMR211GLFS          TAC_SWITCH    KMR_SWITCH                vovtech  1
+SWCLK                           PINHD-1X1     1X01                      pinhead  1
+SWDIO                           PINHD-1X1     1X01                      pinhead  1
+SWO                             PINHD-1X1     1X01                      pinhead  1
+U1          STM32F407VET6       STM32F407VET6 LQFP100                   vovtech  1
+U2          STM32F102CBT6       STM32F102CBT6 LQFP48                    vovtech  1
+U3          MCP1802T-3302I/OT   MCP1802       MCP1802-SOT23             vovtech  1
+X1          10033526-N3212MLF   USB-MB-S      USB-MB-S                  vovtech  1
+Y1          7A-8.000MAAJ-T      CRYSTAL-2     CRYSTAL-SMD-5.0MM-3.2MM-2 vovtech  1
+Y2          7A-8.000MAAJ-T      CRYSTAL-2     CRYSTAL-SMD-5.0MM-3.2MM-2 vovtech  1
+Y3          ABS25-32.768KHZ-6-T CRYSTAL       CRYSTAL-SMD-32.768KHZ     vovtech  1

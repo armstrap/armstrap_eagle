@@ -1,0 +1,118 @@
+Partlist
+
+Exported from armstrap_eagle_1.0.0.brd at 12/7/14 10:09 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part        Value               Package                   Library  Position (inch)       Orientation
+
+C1          0.1uF               0805                      vovtech  (1.03 1.11)           R90
+C2          0.1uF               0805                      vovtech  (1.71 0.43)           R0
+C3          0.1uF               0805                      vovtech  (1.67 1.11)           R90
+C4          0.1uF               0805                      vovtech  (1.03206804 0.38820091) R270
+C5          10uF                0805                      vovtech  (2.70055118 0.61)     R180
+C6          10pF                0805                      vovtech  (0.68 0.676)          R270
+C7          10pF                0805                      vovtech  (0.68 0.525)          R90
+C8          2.2uF               0805                      vovtech  (1.71 0.34)           R0
+C9          2.2uF               0805                      vovtech  (1.765 1.11)          R90
+C10         8pF                 0805                      vovtech  (0.662 1.183)         R180
+C11         10uF                0805                      vovtech  (2.70055118 0.37)     R0
+C12         0.1uF               0805                      vovtech  (2.7 0.79)            R0
+C13         0.1uF               0805                      vovtech  (2.7 1.15)            R0
+C14         0.1uF               0805                      vovtech  (2.26 0.79)           R180
+C15         0.1uF               0805                      vovtech  (2.25 1.15)           R180
+C16         0.1uF               0805                      vovtech  (0.8 0.87)            R180
+C17         10pF                0805                      vovtech  (1.98 1.056)          R270
+C18         10pF                0805                      vovtech  (1.98 0.906)          R90
+C19         0.1uF               0805                      vovtech  (0.8 0.78)            R180
+C20         8pF                 0805                      vovtech  (0.66 0.9)            R180
+C21         0.1uF               0805                      vovtech  (0.8 0.31)            R180
+C22         1uF                 0805                      vovtech  (0.65 0.31)           R180
+C23         0.1uF               0805                      vovtech  (0.8 0.4)             R0
+C24         1uF                 0805                      vovtech  (0.65 0.4)            R0
+COINBATTERY BK-885-TR           BATTCON_12MM              vovtech  (0.34 0.61)           R90
+D1          BAT60JFILM          SOD-323                   vovtech  (2.92 0.68)           R180
+D2          BAT60JFILM          SOD-323                   vovtech  (2.70055118 0.28)     R0
+F1          1206L050YR          PTC-1206                  vovtech  (2.92 0.78)           R180
+FID2        FIDUCIAL            FIDUCIAL_1MM              vovtech  (3 1.2)               R0
+FID3        FIDUCIAL            FIDUCIAL_1MM              vovtech  (0.5 0.3)             R0
+FID4        FIDUCIAL            FIDUCIAL_1MM              vovtech  (1.4 1.2)             R0
+FLASH1      S25FL208K0RMFI010   SOIC-8-WIDE               vovtech  (2.27 0.47)           R0
+FTDI_1                          1X01                      pinhead  (2.55 0.15)           R0
+FTDI_2                          1X01                      pinhead  (2.65 0.15)           R0
+FTDI_3                          1X01                      pinhead  (2.75 0.15)           R0
+FTDI_4                          1X01                      pinhead  (2.85 0.15)           R0
+FTDI_5                          1X01                      pinhead  (2.95 0.15)           R0
+FTDI_6                          1X01                      pinhead  (3.05 0.15)           R0
+GND-                            1X01                      pinhead  (2.85 1.35)           R0
+JP21                            1X01                      pinhead  (2.35 1.35)           R0
+JP22                            1X01                      pinhead  (2.25 1.35)           R0
+JP23                            1X01                      pinhead  (2.15 1.35)           R0
+JP24                            1X01                      pinhead  (2.05 1.35)           R0
+JP25                            1X01                      pinhead  (1.95 1.35)           R0
+JP26                            1X01                      pinhead  (1.85 1.35)           R0
+JP27                            1X01                      pinhead  (1.75 1.35)           R0
+JP28                            1X01                      pinhead  (1.65 1.35)           R0
+JP29                            1X01                      pinhead  (1.55 1.35)           R0
+JP30                            1X01                      pinhead  (1.45 1.35)           R0
+JP31                            1X01                      pinhead  (1.35 1.35)           R0
+JP32                            1X01                      pinhead  (1.25 1.35)           R0
+JP33                            1X01                      pinhead  (1.15 1.35)           R0
+JP34                            1X01                      pinhead  (1.05 1.35)           R0
+JP35                            1X01                      pinhead  (0.95 1.35)           R0
+JP36                            1X01                      pinhead  (0.85 1.35)           R0
+JP37                            1X01                      pinhead  (0.75 1.35)           R0
+JP38                            1X01                      pinhead  (0.65 1.35)           R0
+JP39                            1X01                      pinhead  (0.55 1.35)           R0
+JP40                            1X01                      pinhead  (0.45 1.35)           R0
+LED2        APB3025YSGC-F01     CHIPLED_1206-DUAL         vovtech  (2.5 0.47)            R90
+LED3        APT3216QBC/D        CHIPLED_1206              vovtech  (2.05 0.47)           R90
+NC                              1X01                      pinhead  (3.05 1.35)           R0
+NRST                            1X01                      pinhead  (2.65 1.35)           R0
+P1                              1X01                      pinhead  (0.45 0.15)           R0
+P2                              1X01                      pinhead  (0.55 0.15)           R90
+P3                              1X01                      pinhead  (0.65 0.15)           R90
+P4                              1X01                      pinhead  (0.75 0.15)           R90
+P5                              1X01                      pinhead  (0.85 0.15)           R90
+P6                              1X01                      pinhead  (0.95 0.15)           R90
+P7                              1X01                      pinhead  (1.05 0.15)           R90
+P8                              1X01                      pinhead  (1.15 0.15)           R90
+P9                              1X01                      pinhead  (1.25 0.15)           R90
+P10                             1X01                      pinhead  (1.35 0.15)           R90
+P11                             1X01                      pinhead  (1.45 0.15)           R90
+P12                             1X01                      pinhead  (1.55 0.15)           R90
+P13                             1X01                      pinhead  (1.65 0.15)           R90
+P14                             1X01                      pinhead  (1.75 0.15)           R90
+P15                             1X01                      pinhead  (1.85 0.15)           R90
+P16                             1X01                      pinhead  (1.95 0.15)           R90
+P17                             1X01                      pinhead  (2.05 0.15)           R90
+P18                             1X01                      pinhead  (2.15 0.15)           R90
+P19                             1X01                      pinhead  (2.25 0.15)           R90
+P20                             1X01                      pinhead  (2.35 0.15)           R90
+R1          10K                 0805                      vovtech  (1.32 0.31)           R180
+R2          10K                 0805                      vovtech  (0.319 1.12)          R90
+R3          10K                 0805                      vovtech  (0.415 1.12)          R270
+R4          10K                 0805                      vovtech  (1.92 0.64)           R180
+R5          390                 0805                      vovtech  (2.06 0.64)           R180
+R9          1.5K                0805                      vovtech  (2.9 1.15)            R180
+R10         4.7K                0805                      vovtech  (2.9 0.97)            R0
+R11         10K                 0805                      vovtech  (2.9 0.88)            R0
+R14         10K                 0805                      vovtech  (2.70055118 0.7)      R0
+RN1         EXB-34V220JV        0603-ARC2                 vovtech  (2.9 1.06)            R90
+RN2         EXB-38V391JV        0603-ARC4                 vovtech  (2.5 0.65)            R180
+S1          KMR211GLFS          KMR_SWITCH                vovtech  (2.99 0.34)           R180
+S2          KMR211GLFS          KMR_SWITCH                vovtech  (0.12 1.09)           R0
+S3          KMR211GLFS          KMR_SWITCH                vovtech  (0.12 0.94)           R180
+S4          KMR211GLFS          KMR_SWITCH                vovtech  (1.92 0.47)           R270
+SWCLK                           1X01                      pinhead  (2.95 1.35)           R0
+SWDIO                           1X01                      pinhead  (2.75 1.35)           R0
+SWO                             1X01                      pinhead  (2.55 1.35)           R0
+U1          STM32F407VET6       LQFP100                   vovtech  (1.35 0.75)           R270
+U2          STM32F102CBT6       LQFP48                    vovtech  (2.48 0.97)           R270
+U3          MCP1802T-3302I/OT   MCP1802-SOT23             vovtech  (2.70055118 0.49)     R0
+X1          10033526-N3212MLF   USB-MB-S                  vovtech  (3.26106299 0.97888189) R0
+Y1          7A-8.000MAAJ-T      CRYSTAL-SMD-5.0MM-3.2MM-2 vovtech  (0.8 0.6)             R270
+Y2          7A-8.000MAAJ-T      CRYSTAL-SMD-5.0MM-3.2MM-2 vovtech  (2.1 0.98)            R270
+Y3          ABS25-32.768KHZ-6-T CRYSTAL-SMD-32.768KHZ     vovtech  (0.66 1.04)           R180
